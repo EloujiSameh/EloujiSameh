@@ -1,6 +1,8 @@
 <a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=48CDDC&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Sameh+El+Ouji;+💻+I%27m+a+Junior+Chief+Information+Security+Officer;"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=36&color=FFC300&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I%27m+Sameh+El+Ouji;+💻+I%27+m+a+Junior+Chief+Information+Security+Officer;"/>
 </a>
+
+
 
 <img align="right" alt="coding"  width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F4dDkzaGxlNmNlaDBhcDQ5dnlqdWk3MHI4dzVqd2Ftcnh6dzBlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif">
 
